@@ -13,4 +13,4 @@ declared-services:
     label: postgresql
     plan: 100
 services:
-  - mypostgres
+  - postgresqlmine
